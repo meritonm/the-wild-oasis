@@ -1,6 +1,9 @@
 # The wild Meriton
 
-Main project in Meriton Musliu with ReactJS
+Main project in Meriton Musliu build with React Query and Supabase.
+
+Also you can check here:
+https://thewildmeriton.netlify.app/
 
 # React + Vite
 
